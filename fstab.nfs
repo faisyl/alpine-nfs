@@ -1,0 +1,4 @@
+# fstab file should be mapped to /etc/fstab.nfs and type should be either nfs or nfs4  
+
+192.168.33.2:/home /mnt nfs defaults,ro 0 0
+
